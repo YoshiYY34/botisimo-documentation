@@ -1,7 +1,7 @@
 !amazon
 =======
 
-**Default Permission:** Everyone
+**Default Permission:** Moderator
 
 Search Amazon products. Returns top 10 results in Discord and top result in Twitch, Mixer, & YouTube.
 
